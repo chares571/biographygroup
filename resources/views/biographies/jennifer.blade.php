@@ -4,7 +4,7 @@
     <iframe
         src="https://yennfajardo.github.io/profile/"
         width="100%"
-        height="600px"
+        height="700px"
         style="border: none;">
     </iframe>
 
